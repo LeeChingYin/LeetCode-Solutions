@@ -28,6 +28,6 @@ for(let i = 0; i < nums.length; i++){
 
 ```
 if(target - nums[i] == nums[j]){
-	return [i,j]
+  return [i,j]
 }
 ```
